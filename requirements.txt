@@ -1,4 +1,5 @@
 pandas
 matplotlib
 statsmodels
-mosaic
+scikit-learn
+textblob
