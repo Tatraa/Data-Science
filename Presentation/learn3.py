@@ -38,7 +38,6 @@ counts = [positive_count, negative_count, neutral_count]
 
 plt.figure(figsize=(8, 6))
 plt.bar(labels, counts, color=['green', 'red', 'gray'])
-plt.xlabel('Opinion')
-plt.ylabel('Count')
+plt.ylabel('Number of opinions')
 plt.title('Opinions Analysis')
 plt.show()
