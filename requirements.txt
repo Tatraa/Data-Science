@@ -1,6 +1,6 @@
 pandas
 matplotlib
 statsmodels
-scikit-learn
+scikit-learn~=1.0
 textblob
 seaborn
